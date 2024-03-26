@@ -9,3 +9,5 @@ Week 2 : Looking on neural network process, using tensorflow
 Week 3 : The gear of neural networks, The engine of neural networks
 
 Week 4 : What's Tensorflow? What's Keras? First steps with Tensorflow and anatomy of a neural networks (Keras API)
+
+Week 4(2) : Classfying movie reviews (a binary classification), classifying newswires (a multiclass classfication), predicting house prices (a regression)
