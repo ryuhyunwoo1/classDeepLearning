@@ -13,3 +13,5 @@ Week 4 : What's Tensorflow? What's Keras? First steps with Tensorflow and anatom
 Week 4(2) : Classfying movie reviews (a binary classification), classifying newswires (a multiclass classfication), predicting house prices (a regression)
 
 Week 5 : Generalization(The goal of machine learning), Evaluating machine-learning models, Improving model fit, Improving generalization
+
+Week 6 : The universal **workflow** of machine learning (Define the task, Develop a model, Deploy the model)
