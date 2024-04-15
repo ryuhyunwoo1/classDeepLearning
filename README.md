@@ -15,3 +15,5 @@ Week 4(2) : Classfying movie reviews (a binary classification), classifying news
 Week 5 : Generalization(The goal of machine learning), Evaluating machine-learning models, Improving model fit, Improving generalization
 
 Week 6 : The universal **workflow** of machine learning (Define the task, Develop a model, Deploy the model)
+
+Week 7 : convnets
